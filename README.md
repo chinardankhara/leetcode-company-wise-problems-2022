@@ -7,7 +7,7 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 
 ## Company Index
 1. [APT Portfolio](#apt-portfolio)
-2. [Accenture](#accenture)
+~~2. [Accenture](#accenture)~~
 3. [Activision](#activision)
 4. [Adobe](#adobe)
 5. [Affirm](#affirm)
